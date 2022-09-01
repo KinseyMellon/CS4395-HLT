@@ -9,4 +9,5 @@ The document can be found [here](Overview_of_NLP.pdf)
 
 ## Homework Assignment 1
 
+A document showing a short overview of this assigment can be found [here]("Homework Assignment 1 Overview.pdf")
 
