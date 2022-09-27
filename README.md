@@ -16,3 +16,11 @@ The Python script can be found [here](HW1_ksm180006.py)
 ## Exploring NLTK
 
 The link to the pdf document can be found [here](HW2-ksm180006.pdf)
+
+## Guessing Game Assignment
+
+The link to the .py file is [here](GuessingGameHW-ksm180006.py)
+
+## WordNet
+
+The link to the pdf can be found [here](WordNetHW-ksm180006.pdf)
