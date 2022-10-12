@@ -28,4 +28,14 @@ The link to the pdf can be found [here](WordNetHW-ksm180006.pdf)
 ## NGrams
 
 The link to the  first .py file is [here](NgramsHW-ksm180006.py)
+
 The second .py file is [here](NgramsHW2-ksm180006.py)
+
+The report is [here](N-grams_Report_ksm180006.pdf)
+
+## WebCrawler
+
+The link to the webcrawler .py file is [here](WebCrawlerHW-ksm180006.py)
+
+The report is [here](Web_Crawler_Report.pdf)
+
