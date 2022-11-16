@@ -39,3 +39,9 @@ The link to the webcrawler .py file is [here](WebCrawlerHW-ksm180006.py)
 
 The report is [here](Web_Crawler_Report.pdf)
 
+## ACL Summary
+
+The original paper is [here](ACL_SummaryHWPaper.pdf)
+
+The summary report is [here](ACL_Paper_summary.docx)
+
