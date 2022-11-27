@@ -39,9 +39,21 @@ The link to the webcrawler .py file is [here](WebCrawlerHW-ksm180006.py)
 
 The report is [here](Web_Crawler_Report.pdf)
 
+## Syntax Parsing
+
+The final assignment is [here](SyntaxParsing-ksm180006.pdf)
+
 ## ACL Summary
 
 The original paper is [here](ACL_SummaryHWPaper.pdf)
 
 The summary report is [here](ACL_Paper_Summary.docx)
+
+## Author Attribution
+
+The final assignment is [here](AuthorAttributionHW.pdf)
+
+## Chatbot Project
+
+
 
