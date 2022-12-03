@@ -19,7 +19,7 @@ The Python script can be found [here](https://github.com/KinseyMellon/CS4395-HLT
 
 ## Exploring NLTK
 
-Description: This assignment introduced NLTK. It explores different NLTK methods on the built in text1 object
+Description: This assignment introduced NLTK. It explores different NLTK methods such as tokens(), concordance(), count(), sent_tokenize(), PorterStemmer(), and WordNetLemmatizer.
 
 The link to the pdf document can be found [here](https://github.com/KinseyMellon/CS4395-HLT/blob/main/Assignment_Files/HW2-ksm180006.pdf)
 
