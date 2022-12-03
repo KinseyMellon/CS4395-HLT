@@ -54,3 +54,7 @@ The final assignment is [here](https://github.com/KinseyMellon/CS4395-HLT/blob/m
 
 The link to the chatbot files is [here](https://github.com/KinseyMellon/CS4395-HLT/tree/main/Chatbot)
 
+## Text Classification Project
+
+The link is [here](https://github.com/KinseyMellon/CS4395-HLT/blob/main/Assignment_Files/Text_ClassificationHW.pdf)
+
