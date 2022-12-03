@@ -5,15 +5,21 @@ Classwork for Human Language Technologies
 
 An overview of Natural Language Processing
 
+Description: This assignment asked me to create a document where I summarize previous and current approaches to Natural Language Processing (NLP) 
+
 The document can be found [here](https://github.com/KinseyMellon/CS4395-HLT/blob/main/Assignment_Files/OverviewOfNLP_ksm180006.pdf)
 
 ## Text Processing with Python
+
+Description: This assignment asked me to read in a csv file holding empoyee data and then create a person class to hold the information from the file. There is a function to process the text which includes checking the input data using regex and asking the user to input correct data if needed. 
 
 A document showing a short overview of this assigment can be found [here](Homework_Assignment_1_Overview.pdf)
 
 The Python script can be found [here](https://github.com/KinseyMellon/CS4395-HLT/blob/main/Assignment_Files/HW1_ksm180006.py)
 
 ## Exploring NLTK
+
+Description: This assignment introduced NLTK. It explores different NLTK methods on the built in text1 object
 
 The link to the pdf document can be found [here](https://github.com/KinseyMellon/CS4395-HLT/blob/main/Assignment_Files/HW2-ksm180006.pdf)
 
